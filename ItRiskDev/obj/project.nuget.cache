@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQZMY00Z7iG+m3ny87B37Bl2XlF3iSgX56qWM0I5fE6GmK5TEgN6ZH5C9I8sjVBUJSCzVnXM5Bm1kMQkh/t6dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SicaSico\\Desktop\\Teste\\ItRiskDev\\ItRiskDev\\ItRiskDev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SicaSico\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\SicaSico\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\SicaSico\\.nuget\\packages\\simpleinjector\\5.3.3\\simpleinjector.5.3.3.nupkg.sha512",
+    "C:\\Users\\SicaSico\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\SicaSico\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

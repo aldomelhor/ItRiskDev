@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Category.cs" />
+    <Compile Remove="Interface\Expired.cs" />
+    <Compile Remove="Interface\LowRisk.cs" />
+    <Compile Remove="Interface\MediumRisk.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SimpleInjector" Version="5.3.3" />
+  </ItemGroup>
+
+</Project>
